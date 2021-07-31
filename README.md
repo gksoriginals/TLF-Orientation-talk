@@ -27,7 +27,7 @@ Its true that people are bit scared to use tools like terminal and github
 
 This way when there is a necessity for using these tools people tend to give it a try and that will fix their fear to try out !
 
-## Empathy is key, inclusivity is life
+## Empathy, inclusivity are key
 
 - Our contents are not only for him
 - Our contents are not only for people comfortable and fluent in English
