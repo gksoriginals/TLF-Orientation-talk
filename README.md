@@ -34,7 +34,7 @@ of fixing bugs!
 
 Its true that people are bit scared to use tools like terminal and github
 
-- Use git and github to create and present content
+- Try to use git and github to create and present content
 - Ask participants to upload tasks/projects to github for evaluation
 
 This way when there is a necessity for using these tools people tend to give it a try and that will fix their fear to try out !
